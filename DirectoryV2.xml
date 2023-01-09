@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <trees>
+     <tree path="/src/views" title="页面组件"/>
+     <tree path="/src/views/Find.vue" title="发现音乐" extension="vue"/>
+ </trees>
